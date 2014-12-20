@@ -1,0 +1,22 @@
+{
+    "name": "esl",
+    "filename": "esl.js",
+    "version": "1.1",
+    "description": "ESL是一个浏览器端、符合AMD的标准加载器，适合用于现代Web浏览器端应用的入口与模块管理。",
+    "homepage": "https://github.com/ecomfe/esl",
+    "keywords": [
+       "esl", "js"
+   ],
+   "maintainers": [
+       {
+           "name": "errorrik",
+           "web": "http://efe.baidu.com/" 
+       }
+   ],
+   "repositories": [
+        {   
+            "type": "git",
+            "url": "https://github.com/ecomfe/esl"
+        }
+   ]
+}
